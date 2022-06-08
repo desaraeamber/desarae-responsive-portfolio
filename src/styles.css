@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&family=Outfit:wght@400;700&display=swap');
+
+
+.container {
+    width: 100%;
+    background-color:aqua;
+    font-family: 'EB Garamond', sans-serif;
+}
+
+span {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.fa-linkedin {
+    font-size: 30px;
+}
