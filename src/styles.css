@@ -15,3 +15,40 @@ span {
 .fa-linkedin {
     font-size: 30px;
 }
+
+:root {
+    --primary-color: #6c63ff;
+    --secondary-color: #f5f2fe;
+    --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  *body {
+    margin: 0 auto;
+    max-width: 700px;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    text-align: center;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 96px;
+  }
+  
+  h2 {
+    font-size: 48px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    opacity: 0.7;
+  }
+
+  div {
+      background-color: #e3e2f6;
+      height: 300px;
+  }
+
